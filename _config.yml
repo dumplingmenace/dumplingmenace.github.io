@@ -28,9 +28,10 @@ twitter_username: dumplingmenace
 github_username:  dumplingmenace
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+#theme: minima
+#plugins:
+#  - jekyll-feed
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 
 # Exclude from processing.
