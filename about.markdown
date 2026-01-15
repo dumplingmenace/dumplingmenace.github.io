@@ -4,4 +4,4 @@ title: about
 permalink: /about/
 ---
 
-ak from philly currently in mpls. 
+ak from philly, no longer in mpls. 
