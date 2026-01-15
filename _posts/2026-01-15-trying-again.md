@@ -3,7 +3,7 @@ layout: post
 title: "musings year 2"
 ---
 
-Okay 2025 got away from me. Moved back to philly unexpectedly, George the Chihuahua, ![black and gray chihuahua curled up on a white blanket](images/georgie.JPG)
+Okay 2025 got away from me. Moved back to philly unexpectedly, George the Chihuahua, ![black and gray chihuahua curled up on a white blanket](https://github.com/dumplingmenace/dumplingmenace.github.io/blob/1358b7919f508963d9298dca69a567008f8cd93e/images/georgie.JPG)
 my perfect small son was diagnosed with kidney disease and told he had weeks to live and then he lived for several months. 
 He made it to Philly and his patio and I am grateful but I miss him. But I'm going to try this again but better this time!
 
